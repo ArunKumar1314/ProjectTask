@@ -1,0 +1,27 @@
+{
+    "change-language": "Change Language",
+    "project": "Welcome To Task Management System",
+    "title": "Title",
+    "Completion Status": "Completion Status",
+    "Select Risk Status":"Select Risk Status",
+    "Risk Level": "Risk Level",
+    "create new task": "Create New Task",
+    "Date Assigned": "Date Assigned",
+    "Sign": "Sign",
+    "Submit": "Submit",
+    "pick date":"pick date",
+    "riskStatus": {
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "Search by Task title":"Search by Task title",
+    "New Task":"New Task",
+    "Add":"Add",
+    "Edit":"Edit",
+    "Task":"Task",
+    "Name":"Name",
+    "DeadLine Date":"DeadLine Date",
+    "No signature":"No signature"
+
+    }
+    }

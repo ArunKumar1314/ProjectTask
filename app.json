@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "projectTask",
+    "slug": "projectTask",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/AppIcon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.crane1413.projectTask"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6bf4aa06-dd11-4cb8-8b3f-f082e9d548f9"
+      }
+    }
+  }
+}
